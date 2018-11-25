@@ -7,10 +7,10 @@ Projects
 ---------
 |**Project**|**Lang/Format**|**Compendious**|
 |-----------|---------------|---------------|
-|SymbolRef|gitbook/wiki|alchemy symbols/meanings/useage|
-| | | |
-| | | |
-| | | |
+|SymbolRef  |gitbook/wiki   |alchemy symbols/meanings/useage|
+|codexus    | | |
+|blkcaldrn  | | |
+|uuolph's bane | | |
 | | | |
 | | | |
 
