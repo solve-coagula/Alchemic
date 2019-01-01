@@ -15,10 +15,19 @@
 
 ### Symbol Ref
 
-**Project Name/Path** :: Alchemist_Codex,Alchemdex, SymbolRef, ...
+**Project Name/Path** :: Alchemist_Codex, Alchemdex, SymbolRef, ...
 
 -   svg of historic symbols
 -   examples of historic useage
 -   ?
 
-### xproject
+### x project
++ ?
++ ??
++ ???
++ ????
++ ?????
++ ????
++ ???
++ ??
++ ?
