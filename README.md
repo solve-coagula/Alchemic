@@ -7,7 +7,7 @@
 | **Project**   | **Lang/Format** | **Compendious**                 |
 | ------------- | --------------- | ------------------------------- |
 | SymbolRef     | gitbook/wiki    | alchemy symbols/meanings/useage |
-| codexus       |                 |                                 |
+| codexus       |                 | ***FAIL***  no graphics         |
 | blkcaldrn     |                 |                                 |
 | uuolph's bane |                 |                                 |
 |               |                 |                                 |
