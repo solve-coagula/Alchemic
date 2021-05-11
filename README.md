@@ -10,8 +10,8 @@
 | codexus       |                 | ***FAIL***  no graphics         |
 | blkcaldrn     |                 |                                 |
 | uuolph's bane |                 |                                 |
-|               |                 |                                 |
-|               |                 |                                 |
+
+
 
 ### Symbol Ref
 
@@ -25,8 +25,6 @@
 + ?
 + ??
 + ???
-+ ????
-+ ?????
 + ????
 + ???
 + ??
